@@ -15,7 +15,7 @@ Global
 		{DC754C3C-4963-4B3B-B49B-7CEF2EFEED15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC754C3C-4963-4B3B-B49B-7CEF2EFEED15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC754C3C-4963-4B3B-B49B-7CEF2EFEED15}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection // end
+	EndGlobalSection // endd
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
